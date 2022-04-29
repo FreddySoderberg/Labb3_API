@@ -1,10 +1,11 @@
 
-# Project Title
+# Labb3_API
 
-A brief description of what this project does and who it's for
+Created a DB through Entity Framework, code-first, with 2 mapping tables looking like; 
+Person(model) -> PersonInterest(mapping-table) -> Interest(model) -> InterestLink(mapping-table) -> Link(model)
 
 
-## Acknowledgements
+## Acknowledgements //Creds where it's due.
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
