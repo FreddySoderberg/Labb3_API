@@ -1,8 +1,13 @@
 
 # Labb3_API
 
-Created a DB through Entity Framework, code-first, with 2 mapping tables looking like; 
+Created a Database through Entity Framework, code-first, with 2 mapping tables looking like; 
+
 Person(model) -> PersonInterest(mapping-table) -> Interest(model) -> InterestLink(mapping-table) -> Link(model)
+
+After that I created a REST-API with a generic interface, controllers and serives/repositories. You can call this API by running it and using Postman or anything else to get the data through this API.
+
+This is my first API and now in hindsight, I'd love to remake some things I've learned along the way, but as it stands right now I have other school assignments and don't have time to polish everything I'd like to. So please look at this with a grain of salt.
 
 
 ## Acknowledgements //Creds where it's due.
